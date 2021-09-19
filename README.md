@@ -7,10 +7,6 @@
 👨💻 [Codam](https://www.codam.nl/en/), [42-Network](https://en.wikipedia.org/wiki/42_(school)), Amsterdam
 </h1>
 
-<p align="center">
-<img src="http://badge42.herokuapp.com/api/stats/teicheld?darkmode=true&cursus=C%20Piscine" width="500" />
-</p>
-
 | Project | Language | Passed | Result | Exp | Level |
 |:-------:|:--------:|:------:|:------:|:---:|:-----:|
 Shell 00|Shell|✔️|92/100|100 XP|0
